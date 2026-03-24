@@ -1,22 +1,14 @@
-# pythone_00
+    # pythone_00
 
-## Description
-Python basics: syntax, control flow, and foundational exercises.
+    Python basics: syntax, types, control flow, and simple functions.
 
-## Features
-- Intro scripts focused on core language constructs.
+    ## Contents
+    - Intro exercises on variables, strings, numbers, conditionals, and loops.
+    - Small scripts practicing printing and basic computations.
 
-## Technologies Used
-- Python.
+    ## Usage
+    - Requires Python 3.
+    - Run an exercise: `python3 file.py`.
 
-## Installation
-- Ensure Python 3 is installed.
-
-## Usage
-- `python3 file.py` to run an exercise.
-
-## Example
-- Execute a script that prints formatted strings.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
